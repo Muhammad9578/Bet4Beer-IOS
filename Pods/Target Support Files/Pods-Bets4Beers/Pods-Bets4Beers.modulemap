@@ -1,0 +1,6 @@
+framework module Pods_Bets4Beers {
+  umbrella header "Pods-Bets4Beers-umbrella.h"
+
+  export *
+  module * { export * }
+}
